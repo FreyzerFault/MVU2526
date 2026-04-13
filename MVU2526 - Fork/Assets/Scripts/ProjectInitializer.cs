@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using Zenject;
 
@@ -23,9 +24,11 @@ public class ProjectInitializer : MonoInstaller
 
     public class LevelLoader
     {
-        public void LoadLevel(object level)
+        public event Action<LevelConfig> OnLoadingRequested;
+        
+        public void LoadLevel(LevelConfig level)
         {
-            
+            OnLoadingRequested?.Invoke(level);
         }
     }
 }

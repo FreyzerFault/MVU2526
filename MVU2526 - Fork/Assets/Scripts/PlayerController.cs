@@ -4,6 +4,8 @@ using Zenject;
 
 public class PlayerController : MonoBehaviour
 {
+    [SerializeField] private LevelConfig nextScene;
+    
     private ProjectInitializer.AudioSystem audioSystem;
     private ProjectInitializer.LevelLoader levelLoader;
     
@@ -20,9 +22,9 @@ public class PlayerController : MonoBehaviour
         if (Keyboard.current.spaceKey.isPressed)
             audioSystem.EmitSound("Jump Sound");
         
-        if (Keyboard.current.f1Key.wasPressedThisFrame) 
+        if (Keyboard.current.f1Key.wasPressedThisFrame)
         {
-            levelLoader.LoadLevel()
+            levelLoader.LoadLevel(nextScene);
         }
     }
 }
