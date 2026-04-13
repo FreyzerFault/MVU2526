@@ -25,7 +25,8 @@ public class ProjectInitializer : MonoInstaller
     public class LevelLoader
     {
         public event Action<LevelConfig> OnLoadingRequested;
-        
+        public float CurrentProgress { get; set; }
+
         public void LoadLevel(LevelConfig level)
         {
             OnLoadingRequested?.Invoke(level);
