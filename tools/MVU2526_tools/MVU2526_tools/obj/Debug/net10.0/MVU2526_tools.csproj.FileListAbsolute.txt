@@ -1,0 +1,15 @@
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\MVU2526_tools.exe
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\MVU2526_tools.deps.json
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\MVU2526_tools.runtimeconfig.json
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\MVU2526_tools.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\MVU2526_tools.pdb
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.AssemblyInfoInputs.cache
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.AssemblyInfo.cs
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.csproj.CoreCompileInputs.cache
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.sourcelink.json
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\refint\MVU2526_tools.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.pdb
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.genruntimeconfig.cache
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\ref\MVU2526_tools.dll
