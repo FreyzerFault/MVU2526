@@ -13,3 +13,15 @@ C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\refint\MVU2
 C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.pdb
 C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.genruntimeconfig.cache
 C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\ref\MVU2526_tools.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Discord.Net.Commands.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Discord.Net.Core.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Discord.Net.Dave.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Discord.Net.Interactions.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Discord.Net.Rest.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Discord.Net.Webhook.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Discord.Net.WebSocket.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_tools.csproj.AssemblyReference.cache
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\obj\Debug\net10.0\MVU2526_.7957F125.Up2Date
+C:\Unity\MVU2526\tools\MVU2526_tools\MVU2526_tools\bin\Debug\net10.0\MegaApiClient.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVU2526_tools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c8bc987788141464d1426a3bf2f18daa7fb56ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62fe7ba924bc420200d1e0f3e6296f629ec530d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVU2526_tools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVU2526_tools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
