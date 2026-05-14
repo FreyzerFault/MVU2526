@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Unity Projects\\MVU2526\\MVU2526 - Fork\\MVU2526 - Fork-blend.csproj": {}
+  },
+  "projects": {
+    "D:\\Unity Projects\\MVU2526\\MVU2526 - Fork\\MVU2526 - Fork-blend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unity Projects\\MVU2526\\MVU2526 - Fork\\MVU2526 - Fork-blend.csproj",
+        "projectName": "MVU2526 - Fork",
+        "projectPath": "D:\\Unity Projects\\MVU2526\\MVU2526 - Fork\\MVU2526 - Fork-blend.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "D:\\Unity Projects\\MVU2526\\MVU2526 - Fork\\Blend\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Noesis.GUI.Extensions": {
+              "target": "Package",
+              "version": "[3.0.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
