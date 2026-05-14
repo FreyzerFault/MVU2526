@@ -1,0 +1,21 @@
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\MVU2526 - Fork.exe
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\MVU2526 - Fork.pdb
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\Noesis.GUI.Extensions.dll
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\System.Buffers.dll
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\System.Memory.dll
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\System.Numerics.Vectors.dll
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 - Fork-blend.csproj.AssemblyReference.cache
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\Assets\MVU2526 - ForkMainView.baml
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\Assets\MVU2526 - ForkMainView.g.cs
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\Blend\App.g.cs
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 - Fork_MarkupCompile.cache
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 - Fork_MarkupCompile.lref
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\Blend\App.baml
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 - Fork.g.resources
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 - Fork-blend.csproj.CoreCompileInputs.cache
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 .FA3E258A.Up2Date
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 - Fork.exe
+D:\Unity Projects\MVU2526\MVU2526 - Fork\Blend\obj\Debug\MVU2526 - Fork.pdb
