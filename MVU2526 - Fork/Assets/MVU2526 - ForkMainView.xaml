@@ -4,7 +4,14 @@
     > 
   <Border Background="DodgerBlue" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="50,20">
     <StackPanel>
-      <Rectangle>
+      
+      <TextBlock Text="Hello David" FontSize="30" Foreground="White"/>
+      <Rectangle Height="10"/>
+      <Button Content="Button" Margin="0,0,0,0"/>
+      
+      <Rectangle Height="10"/>
+      
+      <Rectangle Width="100" Height="100">
         <Rectangle.Fill>
           <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
             <GradientStop Color="Yellow" Offset="0.0" />
@@ -14,8 +21,6 @@
           </LinearGradientBrush>
         </Rectangle.Fill>
       </Rectangle>
-      <TextBlock Text="Hello David" FontSize="30" Foreground="White"/>
-      <Button Content="Button" Margin="0,10,0,0"/>
     </StackPanel>
   </Border>
 </UserControl>
