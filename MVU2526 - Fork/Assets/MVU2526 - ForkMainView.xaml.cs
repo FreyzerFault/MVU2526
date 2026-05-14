@@ -19,9 +19,15 @@ namespace MVU2526___Fork
         }
 
 #if NOESIS
+        private TextBlock myText;
+        
         private void InitializeComponent()
         {
             NoesisUnity.LoadComponent(this);
+            
+            // Cambiar un texto:
+            // myText = FindName("myText") as TextBlock;
+            // myText.Text = "He cambiado el texto jaja";
         }
 #endif
     }
