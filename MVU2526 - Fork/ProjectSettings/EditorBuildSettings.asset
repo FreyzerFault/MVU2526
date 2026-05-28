@@ -20,5 +20,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Loading Screen.unity
     guid: 8f22165a8a02cd1409e7f62c102f2c57
+  - enabled: 1
+    path: Assets/Scenes/Noesis Test.unity
+    guid: 966fb10d10f8d7e4d986660edc1516c0
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: a2197ef48eed13b46a6de72131a45786
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

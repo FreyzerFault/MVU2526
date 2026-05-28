@@ -9,21 +9,12 @@ namespace EditModeTests
 {
     public class MyTestSuite
     {
-        public class SceneData
+        public static StableScenes stableScenes;
+        public static List<SceneData> SceneDatas => stableScenes.stableScenesGuids;
+        static MyTestSuite()
         {
-            public string guid;
-            public string Path => AssetDatabase.GUIDToAssetPath(guid);
-            public override string ToString() => Path;
-            
-            public static implicit operator string(SceneData data) => data.guid;
+            stableScenes = AssetDatabase.LoadAssetByGUID<StableScenes>(new GUID("8e278cc7704eb0744bd6c4302f7386fa"));
         }
-        
-        public static List<SceneData> stableScenesGuids = new()
-        {
-            new SceneData { guid = "966fb10d10f8d7e4d986660edc1516c0" },
-            new SceneData { guid = "4c078d33c9929da4984c17d4acfd3c46" },
-            new SceneData { guid = "8f22165a8a02cd1409e7f62c102f2c57" },
-        };
         
         [Test]
         public void HealthWith15Points_Give5Damage_ResultIs10()
@@ -57,7 +48,7 @@ namespace EditModeTests
             Assert.That(health.Value, Is.EqualTo(25), "The Health Value must be 25");
         }
 
-        [TestCaseSource(nameof(stableScenesGuids))]
+        [TestCaseSource(nameof(SceneDatas))]
         public void UIScene_ByDefinition_ThereIsOnlyOneCamera(SceneData sceneGuid)
         {
             string scenePath = AssetDatabase.GUIDToAssetPath(sceneGuid);
