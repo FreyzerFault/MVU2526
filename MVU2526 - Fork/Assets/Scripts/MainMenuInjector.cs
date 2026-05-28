@@ -8,6 +8,10 @@ public class MainMenuInjector : MonoBehaviour
 {
     MainMenuViewModel viewModel;
 
+    public PopUp continueMessage;
+    public PopUp newGameMessage;
+    
+
     private void Start()
     {
         var noesis = GetComponent<NoesisView>();
